@@ -1,0 +1,1 @@
+Created a tour packaging list app named far-away, in which you can make a list of items you want to get on your tour, marked them as packed, delete them or delete the whole list and see the stats of all of these.
